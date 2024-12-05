@@ -1,4 +1,4 @@
-# Discord Token Checker
+# Mass Discord Token Checker
 
 A multi-threaded Discord token checker script that verifies the validity of tokens, retrieves Nitro status, checks for payment methods, and determines server ownership. 
 
@@ -22,3 +22,4 @@ A multi-threaded Discord token checker script that verifies the validity of toke
   - `itertools`
 
 ## Paste your discord tokens to: tokens.txt
+![Näyttökuva 2024-12-05 075902](https://github.com/user-attachments/assets/b50e885d-8bf8-4dad-bb34-e1763059c9f4)
