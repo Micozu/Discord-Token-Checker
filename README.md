@@ -20,7 +20,3 @@ A multi-threaded Discord token checker script that verifies the validity of toke
   - `requests`
   - `colorama`
   - `itertools`
-
-Install dependencies with:
-```bash
-pip install requests colorama
