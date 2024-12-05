@@ -20,3 +20,5 @@ A multi-threaded Discord token checker script that verifies the validity of toke
   - `requests`
   - `colorama`
   - `itertools`
+
+## Paste your discord tokens to: tokens.txt
